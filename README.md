@@ -190,11 +190,16 @@ Contributed comprehensive documentation for installing Apache Drill on GCP Datap
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedkashifuddin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkashifuddin&layout=compact&theme=tokyonight&hide_border=true)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mohamedkashifuddin&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedkashifuddin&theme=tokyonight&hide_border=true)
+<!-- Top Languages -->
+
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mohamedkashifuddin&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=)
+<!-- Contribution Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohamedkashifuddin&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -245,6 +250,6 @@ I'm always interested in discussing data engineering challenges, cloud architect
 
 ### 💡 *"Data is the new oil, but like oil, it needs to be refined to be valuable"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedkashifuddin&color=667eea&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedkashifuddin&label=PROFILE+VIEWS&color=667eea&style=for-the-badge&abbreviated=true)
 
 </div>
